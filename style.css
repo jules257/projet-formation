@@ -1,0 +1,29 @@
+*{ margin:0;
+padding:0;}
+ 
+body
+#contenu{ background:red;
+width:1200px;
+height:1000px;
+
+#entete{background:green;
+height:20%;
+border-radius:1em;}
+
+#nav{background:blue;
+height:10%
+border_radius:1em;}
+#article{background:yellow;
+width:73%;
+height:53%;
+border_radius:0,5em;}
+#footer{background:white;
+width:1000px;
+height:15%;
+border_radius:1em;}
+font_style:italic;
+font_size:14px;}
+.quelque{ background:red;
+height:10%;
+width:15%;
+border_radius:1em;}

@@ -1,0 +1,26 @@
+body{background:white;
+border:3px solid black;
+width:400px;
+}
+
+#header{background:red;
+height:50px;
+width:400px;}
+#center{background:blue;
+height:90px;
+width:250px;
+margin:1px;
+padding:15px;}
+
+#right{background:yellow;
+height:90px;
+width:90px;
+border:1px;
+margin:1px;
+padding:-50px;
+}
+
+#footer{background:red;
+height:50px;
+width:400px;
+}
